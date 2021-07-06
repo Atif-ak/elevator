@@ -1,0 +1,75 @@
+body {
+  overflow: hidden;
+}
+.slider {
+  width: 5vw;
+  height: 98vh;
+  position: relative;
+}
+.main {
+  display: flex;
+  margin: 0.9rem;
+}
+.lifts {
+  width: 15vw;
+  height: 100vh;
+}
+.box {
+  border: 1px solid grey;
+  height: 9.5%;
+  background-color: rgb(242 97 97 / 45%);
+  display: flex;
+  align-items: center;
+}
+.box2 {
+  height: 9.5%;
+  position: absolute;
+  width: 69px;
+  background-color: #f06e6e;
+}
+.numPad {
+  width: 6vw;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  right: 20vw;
+  top: 15vh;
+  position: absolute;
+}
+.box3 {
+  height: 60px;
+  width: 55px;
+  margin: 1rem;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+  box-shadow: -1px 1px 16px 6px rgba(225, 235, 123, 0.75);
+  -webkit-box-shadow: -1px 1px 16px 6px rgba(225, 235, 123, 0.75);
+  -moz-box-shadow: -1px 1px 16px 6px rgba(225, 235, 123, 0.75);
+}
+.box3:hover {
+  background-color: whitesmoke;
+  box-shadow: -1px 1px 16px 6px rgba(123, 235, 149, 0.75);
+  -webkit-box-shadow: -1px 1px 16px 6px rgba(123, 235, 149, 0.75);
+  -moz-box-shadow: -1px 1px 16px 6px rgba(123, 235, 149, 0.75);
+}
+.firstRow {
+  display: flex;
+  margin: auto;
+}
+.secRow {
+  display: flex;
+  margin: auto;
+}
+.thirdRow {
+  display: flex;
+  margin: auto;
+}
+.lastRow {
+  display: flex;
+  margin-left: 113%;
+  text-align: center;
+  width: 20vw;
+}
