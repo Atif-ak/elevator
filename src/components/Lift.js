@@ -35,9 +35,9 @@ const Lift = () => {
         <div className="box">6th Floor</div>
         <div className="box">5th Floor</div>
         <div className="box">4th Floor</div>
-        <div className="box">3th Floor</div>
-        <div className="box">2th Floor</div>
-        <div className="box">1th Floor</div>
+        <div className="box">3rd Floor</div>
+        <div className="box">2nd Floor</div>
+        <div className="box">1st Floor</div>
         <div className="box">G Floor</div>
       </div>
 
