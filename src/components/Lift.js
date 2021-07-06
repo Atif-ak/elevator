@@ -29,16 +29,16 @@ const Lift = () => {
         </div>
       </div>
       <div className="lifts">
-        <div className="box">9</div>
-        <div className="box">8</div>
-        <div className="box">7</div>
-        <div className="box">6</div>
-        <div className="box">5</div>
-        <div className="box">4</div>
-        <div className="box">3</div>
-        <div className="box">2</div>
-        <div className="box">1</div>
-        <div className="box">G</div>
+        <div className="box">9th Floor</div>
+        <div className="box">8th Floor</div>
+        <div className="box">7th Floor</div>
+        <div className="box">6th Floor</div>
+        <div className="box">5th Floor</div>
+        <div className="box">4th Floor</div>
+        <div className="box">3th Floor</div>
+        <div className="box">2th Floor</div>
+        <div className="box">1th Floor</div>
+        <div className="box">G Floor</div>
       </div>
 
       <div className="numPad">
